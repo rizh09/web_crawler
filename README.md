@@ -5,3 +5,6 @@ A python script retrieve all the "href" value where the attribute is &lt;a>. Thi
 It is suggested that you need to configure the function of "append_domain", it will add the "domain url" if the href is not start with "http" or "https".
 
 The result will output as an excel file in CSV format.
+
+Sample Output: 
+https://github.com/rizh09/web_crawler/blob/develop/scraped_data.csv
